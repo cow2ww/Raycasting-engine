@@ -1,4 +1,4 @@
-#include </usr/local/include/SDL2.framework/Versions/A/Headers/SDL.h>
+#include <SDL2/SDL.h>
 #include <stdio.h>
 #include <stdbool.h>
 #include <math.h>
